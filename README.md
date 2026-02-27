@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-# Hi there, I'm snowflower204 👋
+# Hi there, I'm Hannah A. Hontiveros 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Always+learning+something+new+%F0%9F%8C%B1" alt="Typing SVG" />
 
