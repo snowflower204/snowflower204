@@ -11,7 +11,7 @@
 
 <img src="https://streak-stats.demolab.com?user=snowflower204&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
----
+<!---
 
 ## ⏱️ WakaTime Coding Activity
 
@@ -26,31 +26,27 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/snowflower204/YOUR_REPO_1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=snowflower204&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" alt="Repo 1" />
+      <a href="https://github.com/snowflower204/ReceiptoChain">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=snowflower204&repo=ReceiptoChain&theme=tokyonight&hide_border=true" alt="ReceiptoChain" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/snowflower204/YOUR_REPO_2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=snowflower204&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" alt="Repo 2" />
+      <a href="https://github.com/snowflower204/Attendance-Management">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=snowflower204&repo=Attendance-Management&theme=tokyonight&hide_border=true" alt="Attendance Management" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/snowflower204/YOUR_REPO_3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=snowflower204&repo=YOUR_REPO_3&theme=tokyonight&hide_border=true" alt="Repo 3" />
+      <a href="https://github.com/snowflower204/port-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=snowflower204&repo=port-app&theme=tokyonight&hide_border=true" alt="port-app" />
       </a>
     </td>
-    <td>
-      <a href="https://github.com/snowflower204/YOUR_REPO_4">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=snowflower204&repo=YOUR_REPO_4&theme=tokyonight&hide_border=true" alt="Repo 4" />
-      </a>
-    </td>
+    <td></td>
   </tr>
 </table>
 
----
+--->
 
 ## 🛠️ Tech Stack
 
