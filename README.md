@@ -3,7 +3,7 @@
 <!-- Header Banner -->
 # Hi there, I'm Hannah A. Hontiveros 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Always+learning+something+new+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Loves+To+Learn;Quantum+Computing;Machine+Learning;Network+Systems;Blockchain+and;Internet+Of+Things;Aspiring+Cloud/Network+Engineer;Always+learning+something+new+%F0%9F%8C%B1" alt="Typing SVG" />
 
 ---
 
@@ -17,9 +17,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=snowflower204&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
 
-> ⚠️ **Note:** WakaTime stats require a [WakaTime account](https://wakatime.com) linked to your GitHub. Replace `snowflower204` with your WakaTime username if it differs.
-
----
+<!---
 
 ## 📌 Pinned Projects
 
