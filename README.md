@@ -78,7 +78,7 @@ VS Code
 
 ---
 
-## GITHUB / ACTIVITY
+<!-- ## GITHUB / ACTIVITY
 
 <div align="center">
 
@@ -96,7 +96,7 @@ VS Code
 <tr>
 <td width="65%" valign="top">
 
----
+-->
 
 <div align="center">
 
